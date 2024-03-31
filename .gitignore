@@ -1,5 +1,5 @@
-//ignore compiled file
+# Ignore compiled file
 *.exe
 
-//ignore temp file 
+# Ignore temp file 
 *.txt
